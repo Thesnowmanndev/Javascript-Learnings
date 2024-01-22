@@ -1,12 +1,12 @@
 # Javascript-Learnings
 
-This is a repository to keep my journey of learning the Javascript Programming Language organized. 
+This is a repository to keep my journey of learning the Javascript Programming Language organized.
 
 ## Pathway
 
-### Basic Javascript 
+### Basic Javascript
 
-➡️ The Complete JavaScript Course: From Zero to Expert
+➡️ The Complete JavaScript Course: From Zero to Expert (68.5 total hours)
 
 🕛 To Be Determined
 
