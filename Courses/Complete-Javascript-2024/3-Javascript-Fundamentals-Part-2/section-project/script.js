@@ -98,3 +98,62 @@ const mexicoPercentageV4 = describePopulation(`Mexico`, mexicoPopulation);
 console.log(
     `${unitedStatesPercentageV4}${canadaPercentageV4}${mexicoPercentageV4}`
 );
+
+// Introduction to arrays
+console.log(`\n --- Introduction to arrays ---`);
+
+const greenlandPopulation = 56660;
+const populations = [
+    unitedStatesPopulation,
+    canadaPopulation,
+    greenlandPopulation,
+    mexicoPopulation,
+];
+
+if (populations.length == 4) {
+    console.log(`The array has 4 elements.`);
+} else {
+    console.log(`The array does not have 4 elements.`);
+}
+
+const countryNames = [`United States`, `Canada`, `Greenland`, `Mexico`];
+const percentages = [
+    percentageOfWorldPopV1(unitedStatesPopulation),
+    percentageOfWorldPopV1(canadaPopulation),
+    percentageOfWorldPopV1(greenlandPopulation),
+    percentageOfWorldPopV1(mexicoPopulation),
+];
+
+let arrayIndex = 0;
+for (let i = 0; i < percentages.length; i++) {
+    console.log(
+        `${countryNames[arrayIndex]} population is ${percentages[arrayIndex]} % of the total world population.`
+    );
+    arrayIndex++;
+}
+
+// Basic Array Operations (Methods)
+console.log(`\n --- Basic Array Operations (Methods) ---`);
+
+const neighbours = [`Canada`, `Mexico`];
+const utopiaName = `Utopia`;
+
+neighbours.push(utopiaName); // Add to end of an array
+console.log(neighbours);
+
+neighbours.pop(); // Removes variable at the end of an array
+console.log(neighbours);
+
+if (!neighbours.includes(`Germany`)) {
+    console.log('Probably not a central european country :D');
+}
+
+neighbours[neighbours.indexOf(`Mexico`)] = `Sweden`; // Replace a variable in an Array
+console.log(neighbours);
+
+neighbours.shift(); // Removes variable at the beginning of an array
+console.log(neighbours);
+
+neighbours.unshift(`Canada`); // Add to the beginning of an array
+neighbours[neighbours.indexOf(`Sweden`)] = `Mexico`;
+console.log(neighbours);
