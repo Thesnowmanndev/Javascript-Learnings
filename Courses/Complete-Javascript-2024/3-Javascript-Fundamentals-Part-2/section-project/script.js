@@ -173,6 +173,7 @@ console.log(neighbours);
 
 // TEST DATA: 125, 555, and 44.
 /* Write your code below. Good luck! 🙂 */
+console.log(`\n --- Challenge #2 ---`);
 
 const bills = [125, 555, 44];
 const tips = [];
@@ -195,3 +196,6 @@ for (let i = 0; i < bills.length; i++) {
 }
 
 const totals = [bills[0] + tips[0], bills[1] + tips[1], bills[2] + tips[2]];
+console.log(bills);
+console.log(tips);
+console.log(totals);
