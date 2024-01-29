@@ -10,7 +10,7 @@ This is a repository to keep my journey of learning the Javascript Programming L
 
 🕛 To Be Determined
 
-### Intermediat Javascript
+### Intermediate Javascript
 
 🕛 To Be Determined
 
