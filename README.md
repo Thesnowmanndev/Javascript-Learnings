@@ -4,17 +4,17 @@ This is a repository to keep my journey of learning the Javascript Programming L
 
 ## Pathway
 
-### Basic Javascript
+### Basic Understanding
 
 ➡️ The Complete JavaScript Course: From Zero to Expert (68.5 total hours)
 
 🕛 To Be Determined
 
-### Intermediate Javascript
+### Intermediate Understanding
 
 🕛 To Be Determined
 
-### Advanced Javascript
+### Advanced Understanding
 
 🕛 To Be Determined
 
