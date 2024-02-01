@@ -346,3 +346,52 @@ if (marksBMI > johnsBMI) {
         }'s (${marksBMI.toFixed(1)})!`
     );
 }
+
+// The for Loop
+console.log(`\n --- The for loop ---`);
+
+const maxVoters = 50;
+for (let i = 1; i <= maxVoters; i++) {
+    console.log(`Voter number ${i} is currently voting.`);
+}
+
+// Looping Arrays, Breaking and Continuing
+console.log(`\n --- Looping Arrays, Breaking and Continuing ---`);
+const percentages2 = [];
+
+for (let i = 0; i < populations.length; i++) {
+    const perc = percentageOfWorldPopV1(populations[i]);
+    percentages2.push(perc);
+}
+
+console.log(percentages2);
+
+// Looping Backwards and Loops in Loops
+console.log(`\n --- Looping Backwards and Loops in Loops ---`);
+
+const listOfNeighbours = [
+    ['Canada', 'Mexico'],
+    ['Spain'],
+    ['Norway', 'Sweden', 'Russia'],
+];
+
+for (let i = 0; i < listOfNeighbours.length; i++) {
+    for (let j = 0; j < listOfNeighbours[i].length; j++) {
+        // Accessing the array within the index i
+        console.log(`Neighbour: ${listOfNeighbours[i][j]}`);
+    }
+}
+
+// While loops
+console.log(`\n --- While Loops ---`);
+
+const percentages3 = [];
+
+let i = 0;
+while (i < populations.length) {
+    const perc = percentageOfWorldPopV1(populations[i]);
+    percentages3.push(perc);
+    i++;
+}
+
+console.log(percentages3);
