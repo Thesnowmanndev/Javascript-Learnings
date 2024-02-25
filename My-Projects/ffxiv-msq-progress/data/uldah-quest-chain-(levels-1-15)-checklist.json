@@ -1,0 +1,102 @@
+{
+  "title": "Uldah Quest Chain (Levels 1-15)",
+  "description": "These are the quests for players who chose to start the game as a Gladiator, Pugilist, or Thaumaturege.",
+  "items": [
+    {
+      "name": "Close to Home",
+      "checked": false
+    },
+    {
+      "name": "We Must Rebuild",
+      "checked": false
+    },
+    {
+      "name": "Nothing to See Here",
+      "checked": false
+    },
+    {
+      "name": "Underneath the Sultantree",
+      "checked": false
+    },
+    {
+      "name": "Step Nine",
+      "checked": false
+    },
+    {
+      "name": "Prudence at This Junction",
+      "checked": false
+    },
+    {
+      "name": "Out of House and Home",
+      "checked": false
+    },
+    {
+      "name": "Way Down in the Hole",
+      "checked": false
+    },
+    {
+      "name": "Takin What Theyre Givin",
+      "checked": false
+    },
+    {
+      "name": "Supply and Demands",
+      "checked": false
+    },
+    {
+      "name": "Give It to Me Raw",
+      "checked": false
+    },
+    {
+      "name": "The Perfect Swarm",
+      "checked": false
+    },
+    {
+      "name": "Laster Letter to Lost Hope",
+      "checked": false
+    },
+    {
+      "name": "Heir Today Gone Tomorrow",
+      "checked": false
+    },
+    {
+      "name": "Passing the Blade",
+      "checked": false
+    },
+    {
+      "name": "Following Footfalls",
+      "checked": false
+    },
+    {
+      "name": "Storms on the Horizon",
+      "checked": false
+    },
+    {
+      "name": "Oh Captain My Captain",
+      "checked": false
+    },
+    {
+      "name": "Secrets and Lies",
+      "checked": false
+    },
+    {
+      "name": "Duty Honor Country",
+      "checked": false
+    },
+    {
+      "name": "A Matter of Tradition",
+      "checked": false
+    },
+    {
+      "name": "A Royal Reception",
+      "checked": false
+    },
+    {
+      "name": "The Uldahn Envoy",
+      "checked": false
+    },
+    {
+      "name": "Call of the Sea",
+      "checked": false
+    }
+  ]
+}

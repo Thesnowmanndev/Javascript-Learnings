@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta
+            name="viewport"
+            content="width=device-width, initial-scale=1.0"
+        />
+        <title>FFXIV | MSQ Progress - Checklist Builder</title>
+        <link
+            rel="stylesheet"
+            href="css/styles.css"
+        />
+    </head>
+    <nav><a href="index.html">Home</a></nav>
+
+    <body>
+        <h1>Checklist Builder</h1>
+        <p>
+            This tool allows a developer to easily generate a checklist for this
+            website. A developer can fill out the form below and the website
+            will convert the input into a JSON file which can then be placed
+            into the data folder for this application.
+        </p>
+        <p>
+            When filling out the items box be sure to separate using a comma.
+            The script will treat all text between commas as an item.
+        </p>
+
+        <label for="title">Title:</label>
+        <input
+            type="text"
+            id="title"
+            name="title"
+        />
+
+        <br /><br />
+
+        <label for="description">Description:</label>
+        <input
+            type="text"
+            id="description"
+            name="description"
+        />
+
+        <br /><br />
+
+        <label for="items">Items (comma-separated):</label>
+        <textarea
+            name="items"
+            id="items"
+            cols="30"
+            rows="10"
+        ></textarea>
+
+        <br /><br />
+
+        <button id="buildBtn">Build</button>
+        <button id="clearBtn">Clear Form</button>
+
+        <script src="js/builder.js"></script>
+    </body>
+</html>
