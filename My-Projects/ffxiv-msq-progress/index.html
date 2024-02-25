@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta
+            name="viewport"
+            content="width=device-width, initial-scale=1.0"
+        />
+        <title>FFXIV | MSQ Progress</title>
+        <link
+            rel="stylesheet"
+            href="css/styles.css"
+        />
+    </head>
+    <nav><a href="checklist-builder.html">checklist-builder</a></nav>
+
+    <body>
+        <div id="checklistMenu">
+            <p>A Realm Reborn: Main Scenario Quests</p>
+            <ul>
+                <p>Unique to Chosen Class Zone Quests:</p>
+                <li>
+                    <a
+                        href="#"
+                        data-checklist="gridania-quest-chain-(levels-1-15)-checklist.json"
+                        >Gridania Quest Chain</a
+                    >
+                </li>
+                <li>
+                    <a
+                        href="#"
+                        data-checklist="limsa-lominsa-quest-chain-(levels-1-15)-checklist.json"
+                        >Limsa Lominsa Quest Chain</a
+                    >
+                </li>
+                <li>
+                    <a
+                        href="#"
+                        data-checklist="uldah-quest-chain-(levels-1-15)-checklist.json"
+                        >Ul'dah Quest Chain</a
+                    >
+                </li>
+            </ul>
+        </div>
+        <div id="checklistSection">
+            <h2 id="checklistTitle">Choose a Checklist</h2>
+            <p id="checklistDescription">
+                Once you choose a checklist, this page will change to display
+                the chosen checklist.
+            </p>
+            <ul id="checklistItems"></ul>
+            <p id="progress">
+                Progress:
+                <span id="progressPercentage"
+                    >Click a checklist to display its progress.</span
+                >
+            </p>
+        </div>
+        <script src="js/app.js"></script>
+    </body>
+</html>

@@ -1,0 +1,102 @@
+{
+  "title": "Limsa Lominsa Quest Chain (Levels 1-15)",
+  "description": "These are the quests for players who chose to start the game as a Marauder or Arcanist.",
+  "items": [
+    {
+      "name": "Close to Home",
+      "checked": false
+    },
+    {
+      "name": "On to Summerford",
+      "checked": false
+    },
+    {
+      "name": "Dressed to Call",
+      "checked": false
+    },
+    {
+      "name": "Lurkers in the Grotto",
+      "checked": false
+    },
+    {
+      "name": "Washed Up",
+      "checked": false
+    },
+    {
+      "name": "Double Dealing",
+      "checked": false
+    },
+    {
+      "name": "Loam Maintenance",
+      "checked": false
+    },
+    {
+      "name": "Plowshares to Swords",
+      "checked": false
+    },
+    {
+      "name": "Just Deserts",
+      "checked": false
+    },
+    {
+      "name": "Sky-high",
+      "checked": false
+    },
+    {
+      "name": "Thanks a Million",
+      "checked": false
+    },
+    {
+      "name": "Relighting the Torch",
+      "checked": false
+    },
+    {
+      "name": "On to the Drydocks",
+      "checked": false
+    },
+    {
+      "name": "Without a Doubt",
+      "checked": false
+    },
+    {
+      "name": "Righting the Shipwright",
+      "checked": false
+    },
+    {
+      "name": "Do Angry Pirates",
+      "checked": false
+    },
+    {
+      "name": "Dream",
+      "checked": false
+    },
+    {
+      "name": "Victory in Peril",
+      "checked": false
+    },
+    {
+      "name": "Men of the Blue Tattoos",
+      "checked": false
+    },
+    {
+      "name": "Feint and Strike",
+      "checked": false
+    },
+    {
+      "name": "High Society",
+      "checked": false
+    },
+    {
+      "name": "A Mizzenmast Repast",
+      "checked": false
+    },
+    {
+      "name": "The Lominsan Envoy",
+      "checked": false
+    },
+    {
+      "name": "Call of the Sea",
+      "checked": false
+    }
+  ]
+}

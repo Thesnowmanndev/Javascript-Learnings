@@ -1,0 +1,98 @@
+{
+  "title": "Gridania Quest Chain (Levels 1-15)",
+  "description": "These are the quests for players who choose to start the game as a Lancer, Archer, or Conjurer.",
+  "items": [
+    {
+      "name": "Close to Home",
+      "checked": false
+    },
+    {
+      "name": "To the Bannock",
+      "checked": false
+    },
+    {
+      "name": "Passing Muster",
+      "checked": false
+    },
+    {
+      "name": "Chasing Shadows",
+      "checked": false
+    },
+    {
+      "name": "Eggs over Queasy",
+      "checked": false
+    },
+    {
+      "name": "Surveying the Damage",
+      "checked": false
+    },
+    {
+      "name": "A Soldiers Breakfast",
+      "checked": false
+    },
+    {
+      "name": "Spirithold Broken",
+      "checked": false
+    },
+    {
+      "name": "On to Bentbranch",
+      "checked": false
+    },
+    {
+      "name": "You Shall Not Trespass",
+      "checked": false
+    },
+    {
+      "name": "Dont Look Down",
+      "checked": false
+    },
+    {
+      "name": "In the Grim Darkness of the Forest",
+      "checked": false
+    },
+    {
+      "name": "Threat Level Elevated",
+      "checked": false
+    },
+    {
+      "name": "Migrant Marauders",
+      "checked": false
+    },
+    {
+      "name": "A Hearer Is Often Late",
+      "checked": false
+    },
+    {
+      "name": "Salvaging the Scene",
+      "checked": false
+    },
+    {
+      "name": "Leias Legacy",
+      "checked": false
+    },
+    {
+      "name": "Dread Is in the Air",
+      "checked": false
+    },
+    {
+      "name": "To Guard a Guardian",
+      "checked": false
+    },
+    {
+      "name": "Festive Endeavors",
+      "checked": false
+    },
+    {
+      "name": "Renewing the Covenant",
+      "checked": false
+    },
+    {
+      "name": "The Gridanian Envoy",
+      "checked": false
+    },
+    {
+      "name": "Call of the Sea",
+      "checked": false
+    }
+  ]
+}
