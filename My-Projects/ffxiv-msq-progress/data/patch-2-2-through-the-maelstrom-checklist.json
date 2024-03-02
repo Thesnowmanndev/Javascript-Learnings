@@ -1,0 +1,62 @@
+{
+    "title": "Through the Maelstrom",
+    "description": "Main Scenario Quests introduced in game patch 2.2: Through the Maelstrom.",
+    "items": [
+        {
+            "name": "Still Waters",
+            "checked": false
+        },
+        {
+            "name": "A Final Temptation",
+            "checked": false
+        },
+        {
+            "name": "The Mother of Exiles",
+            "checked": false
+        },
+        {
+            "name": "Promises to Keep",
+            "checked": false
+        },
+        {
+            "name": "Yugiris Game",
+            "checked": false
+        },
+        {
+            "name": "Why We Adventure",
+            "checked": false
+        },
+        {
+            "name": "All Due Respect",
+            "checked": false
+        },
+        {
+            "name": "The Sea Rises",
+            "checked": false
+        },
+        {
+            "name": "Scouts in Distress",
+            "checked": false
+        },
+        {
+            "name": "The Gift of Eternity",
+            "checked": false
+        },
+        {
+            "name": "Into the Heart of the Whorl",
+            "checked": false
+        },
+        {
+            "name": "Lord of the Whorl",
+            "checked": false
+        },
+        {
+            "name": "When Yugiri Met the Fraternity",
+            "checked": false
+        },
+        {
+            "name": "Through the Maelstorm",
+            "checked": false
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+  "title": "Defenders of Eorzea",
+  "description": "Main Scenario Quests introduced in game patch 2.3: Defenders of Eorzea.",
+  "items": [
+    {
+      "name": "The Great Divide",
+      "checked": false
+    },
+    {
+      "name": "Desperate Times",
+      "checked": false
+    },
+    {
+      "name": "Shock and Awe",
+      "checked": false
+    },
+    {
+      "name": "Reap the Whirlwind",
+      "checked": false
+    },
+    {
+      "name": "Revolution",
+      "checked": false
+    },
+    {
+      "name": "Stories We Tell",
+      "checked": false
+    },
+    {
+      "name": "Lord of Levin",
+      "checked": false
+    },
+    {
+      "name": "Levin an Impression",
+      "checked": false
+    },
+    {
+      "name": "What Little Gods Are Made Of",
+      "checked": false
+    },
+    {
+      "name": "Guardian of Eorzea",
+      "checked": false
+    },
+    {
+      "name": "Recruiting the Realm",
+      "checked": false
+    },
+    {
+      "name": "Heretical Harassment",
+      "checked": false
+    },
+    {
+      "name": "When the Cold Sets In",
+      "checked": false
+    },
+    {
+      "name": "Brave New Companions",
+      "checked": false
+    }
+  ]
+}

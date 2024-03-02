@@ -1,0 +1,46 @@
+{
+    "title": "A Realm Awoken",
+    "description": "Main Scenario Quests introduced in game patch 2.1: A Realm Awoken.",
+    "items": [
+        {
+            "name": "The Price of Principles",
+            "checked": false
+        },
+        {
+            "name": "Moving On",
+            "checked": false
+        },
+        {
+            "name": "All Things in Time",
+            "checked": false
+        },
+        {
+            "name": "Laying the Foundation",
+            "checked": false
+        },
+        {
+            "name": "Its Possibly a Primal",
+            "checked": false
+        },
+        {
+            "name": "Hail to the King Kupo",
+            "checked": false
+        },
+        {
+            "name": "You Have Selected Regicide",
+            "checked": false
+        },
+        {
+            "name": "On the Properties of Primals",
+            "checked": false
+        },
+        {
+            "name": "The Gifted",
+            "checked": false
+        },
+        {
+            "name": "Build on the Stone",
+            "checked": false
+        }
+    ]
+}
