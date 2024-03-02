@@ -49,8 +49,8 @@ document.addEventListener('DOMContentLoaded', () => {
         checklist.items.forEach((item, index) => {
             const listItem = document.createElement('li');
             listItem.innerHTML = `
-            <label>
-                <input type="checkbox" ${
+            <label class=" bg-white text-slate-900 border bg-opacity-20 backdrop-blur-lg rounded drop-shadow-lg text-md p-2 flex flex-row items-center font-light text-xl">
+                <input class="mx-4" type="checkbox" ${
                     item.checked ? 'checked' : ''
                 } data-index="${index}">
                 ${item.name}
