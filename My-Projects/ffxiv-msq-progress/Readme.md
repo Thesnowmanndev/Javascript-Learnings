@@ -15,3 +15,13 @@ I also built a tool to help me create checklists easier. Simply fill out the tit
 ![initial-checklist](public/images/webapp-progress/initial-checklist-example.png)
 
 ![initial-builder](public/images/webapp-progress/initial-checklist-builder-tool.png)
+
+## Version 1
+
+In version 1 I decided to add Tailwindcss to start styling the application. Currently I am only doing a light theme.
+
+![v1-homepage](public/images/webapp-progress/v1-homepage.png)
+
+Mobile:
+
+![mobile-v1](public/images/webapp-progress/v1-mobile.png)
